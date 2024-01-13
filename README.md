@@ -1,11 +1,11 @@
 
-
+<h1 align="left">Hi 👋, I'm Ankita Mishra</h1>
 
 
 
 [![](https://visitcount.itsvg.in/api?id=Ankitamishra17&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
-I’m currently working on my Web development and Problem Solving skills(DSA).<br><br>I’m currently pursuing my Btech degree in Information Technology.
+I’m working on my Web development and Problem Solving skills(DSA).<br><br>I’m currently pursuing my Btech degree in Information Technology.
 
 
 ## 🌐 Socials:
