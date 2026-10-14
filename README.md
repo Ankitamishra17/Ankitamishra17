@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer · React · Next.js · Node.js · MySQL</h3>
 
 <p align="center">
-  <a href="https://ankita-mishra-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-ankita--mishra--portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" /></a>
+  <a href="https://ankita-portfolio-tau.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ankita--portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ankita-mishra17/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Ankitamishra17"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -96,7 +96,7 @@ I'm a **frontend & full-stack developer** who turns ideas into fast, polished an
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://ankita-mishra-portfolio.netlify.app">🌐 Portfolio</a> ·
+  <a href="https://ankita-portfolio-tau.vercel.app/">🌐 Portfolio</a> ·
   <a href="https://www.linkedin.com/in/ankita-mishra17/">💼 LinkedIn</a> ·
   <a href="https://github.com/Ankitamishra17">🐙 GitHub</a>
 </p>
